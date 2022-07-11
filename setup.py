@@ -8,5 +8,5 @@ setup(
     author_email='ljd3frf@virginia.edu',
     description='M14 Class Challenge Package',
     packages=find_packages(),    
-    install_requires=['pandas', 'unittest'],
+    install_requires=['pandas'],
 )
